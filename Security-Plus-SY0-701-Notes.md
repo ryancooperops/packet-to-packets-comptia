@@ -47,7 +47,7 @@ Welcome! This repository documents core defensive security concepts, hands-on lo
 
 For a complete breakdown of modern threat vectors, Performance-Based Questions (PBQs) strategies, and exam pacing tactics, check out this comprehensive guide:
 
-* [Decoding Security+ SY0-701: A Defender’s Blueprint to Passing on Your First Attempt](https://ryancooperops.hashnode.dev/decoding-security-sy0-701-a-defender-s-blueprint-to-passing-on-your-first-attempt)
+* [Decoding Security+ SY0-701: A Defender’s Blueprint to Passing on Your First Attempt](https://telegra.ph/Pass-CompTIA-Security-SY0-701-Exam-My-Prep-Guide-08-20)
 
 ---
 
