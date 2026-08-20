@@ -56,3 +56,21 @@ For a complete breakdown of modern threat vectors, Performance-Based Questions (
 * **Containment > Remediation**: When dealing with active security incidents, isolate affected hosts before investigating or wiping systems.
 * **Least Privilege**: Always grant the absolute minimum permissions necessary for a user or service account to perform its duties.
 * **Zero Trust Architecture**: Never trust, always verify. Enforce explicit authentication and continuous monitoring regardless of location (internal network vs. public internet).
+
+---
+
+### 📗 CompTIA Security+ (SY0-701) Official Portals
+* [CompTIA Security+ Official Exam Overview](https://www.comptia.org/certifications/security) - Official prerequisites, exam details, and domain weights.
+* [CompTIA Official Exam Objectives Download](https://www.comptia.org/training/resources/exam-objectives) - Request and download the official SY0-701 exam objectives PDF.
+* [CompTIA CertMaster Practice & Labs Portal](https://store.comptia.org/) - Official learning materials, practice exams, and interactive hands-on labs.
+* [Pearson VUE CompTIA Exam Scheduling](https://home.pearsonvue.com/comptia) - Register, schedule, or reschedule online proctored and in-person exams.
+
+### 🛡️ Enterprise Security Frameworks & Regulatory Standards
+* [NIST Cybersecurity Framework (CSF 2.0)](https://www.nist.gov/cyberframework) - Core framework covering Govern, Identify, Protect, Detect, Respond, and Recover.
+* [ISO/IEC 27001 Information Security Management Standard](https://www.iso.org/isoiec-27001-information-security.html) - Global benchmark for Information Security Management Systems (ISMS).
+* [CIS Critical Security Controls (CIS Controls)](https://www.cisecurity.org/controls) - Prescriptive, prioritized set of cybersecurity best practices.
+
+### 🚨 Threat Intelligence & Vulnerability Databases
+* [CISA Known Exploited Vulnerabilities (KEV) Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) - Official US government authoritative list of exploited vulnerabilities.
+* [NIST National Vulnerability Database (NVD)](https://nvd.nist.gov/) - US government repository of standards-based vulnerability management data.
+* [MITRE ATT&CK® Framework](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
